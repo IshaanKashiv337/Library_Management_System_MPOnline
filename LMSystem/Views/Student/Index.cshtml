@@ -1,0 +1,31 @@
+@model List<LibraryManagement.Models.StudentModel>
+@{
+    ViewData["Title"] = "Students";
+}
+<a class="btn btn-primary mt-3 ms-2" href="/Student/Create">Add New Student</a>
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>StudentID</th>
+            <th>StudentName</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.StudentId</td>
+                <td>@item.StudentName</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="/Student/Edit/@item.StudentId">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Student/Delete/@item.StudentId" onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

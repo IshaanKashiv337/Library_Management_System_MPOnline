@@ -1,0 +1,254 @@
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/appsettings.Development.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/appsettings.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem.staticwebassets.runtime.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem.deps.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem.runtimeconfig.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/LMSystem.pdb
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Humanizer.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.csproj.AssemblyReference.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.AssemblyInfoInputs.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.AssemblyInfo.cs
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.csproj.CoreCompileInputs.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.RazorAssemblyInfo.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.RazorAssemblyInfo.cs
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets/msbuild.LMSystem.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets/msbuild.build.LMSystem.props
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LMSystem.props
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LMSystem.props
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/scopedcss/bundle/LMSystem.styles.css
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/scopedcss/projectbundle/LMSystem.bundle.scp.css
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.csproj.Up2Date
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/refint/LMSystem.dll
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.pdb
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/LMSystem.genruntimeconfig.cache
+/Users/nandikasharma/Desktop/Software assignments /LMS/LMSystem/obj/Debug/net8.0/ref/LMSystem.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.staticwebassets.runtime.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.exe
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.deps.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.runtimeconfig.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\LMSystem.pdb
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.csproj.AssemblyReference.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.AssemblyInfoInputs.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.AssemblyInfo.cs
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.csproj.CoreCompileInputs.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.RazorAssemblyInfo.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.RazorAssemblyInfo.cs
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets\msbuild.LMSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LMSystem.props
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LMSystem.props
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LMSystem.props
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\scopedcss\bundle\LMSystem.styles.css
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\scopedcss\projectbundle\LMSystem.bundle.scp.css
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.csproj.Up2Date
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\refint\LMSystem.dll
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.pdb
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\LMSystem.genruntimeconfig.cache
+C:\Users\kashi\Desktop\MPO\LMS\LMSystem\obj\Debug\net8.0\ref\LMSystem.dll

@@ -1,0 +1,34 @@
+@model LibraryManagement.Models.StudentModel
+@{
+    ViewData["Title"] = "Add Student";
+}
+<h2>Add Student</h2>
+<form asp-action="Create" method="post" onsubmit="return validateForm();">
+    <div class="mb-3">
+        <label>StudentName</label>
+        <input asp-for="StudentName" class="form-control" id="StudentName" />
+    </div>
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" id="Email" />
+    </div>
+    <div class="mb-3">
+        <label>Phone</label>
+        <input asp-for="Phone" class="form-control" id="Phone" />
+    </div>
+    <button type="submit" class="btn btn-success">Add</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+<script>
+    function validateForm() {
+        const studentname = document.getElementById('StudentName').value.trim();
+        const email = document.getElementById('Email').value.trim();
+        const phone = document.getElementById('Phone').value.trim();
+        if (!studentname || !email || !phone) {
+            alert("All fields are required: StudentName, Email, and Phone.");
+            return false; // prevent form submission
+        }
+        return true; // allow submission
+    }
+</script>

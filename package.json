@@ -1,0 +1,9 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System built with .NET 8 MVC",
+  "scripts": {
+    "dev": "dotnet run --project LMSystem --urls=http://localhost:5000",
+    "build": "dotnet build LMSystem"
+  }
+}
